@@ -196,4 +196,4 @@ MIT License
 
 ---
 
-*Projet réalisé dans le cadre du développement de compétences en Data Analysis et SQL*
+*Projet réalisé dans le cadre du développement de compétences*
